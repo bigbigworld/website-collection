@@ -143,6 +143,7 @@
 - [谷歌开发者社区(GDG)](http://chinagdg.org/) : 开放 · 分享 · 创新。
 - [segmentfault](https://segmentfault.com/) : 是中国领先的开发者技术社区。 为编程爱好者提供一个纯粹、高质的技术交流的平台, 与开发者一起学习、交流与成长。
 - [全栈社区](http://www.fullstackspace.com/) : 中国最大的全栈开发者社区,致力于打造一个问题解答,技术文章分享,全栈人员创业的服务平台,让开发更容易,让创业更简单。
+
 #### 国外
 - [Stack Overflow](http://stackoverflow.com/) : Stack Overflow是一个与程序相关的IT技术问答网站。用户可以在网站免费提交问题，浏览问题，索引相关内容，在创建主页的时候使用简单的HTML。
 - [Front-end Front](https://frontendfront.com/) : 在Front-end Front，前端开发者可以提出问题，分享有趣的链接，并展示他们的项目作品。
