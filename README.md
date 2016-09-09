@@ -3,7 +3,7 @@
 *开发者的网址收藏*
 
 ### 目录
-- [JavaScript库](#javaScript库)
+- [JavaScript库](#javascript库)
 - [前端框架](#前端框架)
 - [Web应用框架](#web应用框架)
 - [任务批处理工具/包管理器](#任务批处理工具包管理器)
@@ -124,7 +124,7 @@
 - [IconFinder](https://www.iconfinder.com/) : Iconfinder提供美丽的图标,服务数以百万计的设计师,开发商和其他有创意的专业人员。
 - [Fontello](http://fontello.com/) : 一个目测有200+个图标（数量还在增加）的 Web-font 图标市场，对于广大设计师、前端开发者来说是很棒的资源。
 
-### Git 代理/服务
+### Git代理/服务
 - [SourceTree](https://www.sourcetreeapp.com/) : SourceTree 是 Windows 和Mac OS X 下免费的 Git 和 Hg 客户端。支持创建、克隆、提交、push、pull 和合并等操作。
 - [GitKraken](http://www.gitkraken.com/) (Beta) : 一款自由、直观、快捷、美观的跨平台Git客户端。
 - [Tower 2](https://www.git-tower.com/) : 一款美丽，高效，强大的Git管理，让Git版本控制变得容易。
