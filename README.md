@@ -198,6 +198,7 @@
 ### 博客
 - [阮一峰的个人网站 - Ruan YiFeng's Personal Website](http://www.ruanyifeng.com)
 - [酷壳 – CoolShell.cn](http://coolshell.cn)
+- [易水博客](http://easwy.com/blog/) : 《Vim实用技巧》的作者。关注Linux, Scala, Java, 开源软件和嵌入式系统。
 
 ### 工具
 - [RegExr: Learn, Build, & Test RegEx](http://regexr.com/) : 正则表达式测试工具。
