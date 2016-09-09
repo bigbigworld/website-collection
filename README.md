@@ -2,7 +2,34 @@
 
 *开发者的网址收藏*
 
-[TOC]
+### 目录
+- [JavaScript库](#JavaScript库)
+- [前端框架](#前端框架)
+- [Web应用框架](#Web应用框架)
+- [任务批处理工具/包管理器](#任务批处理工具包管理器)
+- [编程语言/开发平台](#编程语言开发平台)
+- [数据库](#数据库)
+- [CSS预处理器](#CSS预处理器)
+- [文本编辑器/代码编辑器](#文本编辑器代码编辑器)
+- [Markdown编辑器](#Markdown编辑器)
+- [icon图标](#icon图标)
+- [Git代理/服务](#Git代理服务)
+- [本地开发环境搭建](#本地开发环境搭建)
+- [文本对比检查](#文本对比检查)
+- [代码共享/代码测试](#代码共享代码测试)
+- [协作工具](#协作工具)
+- [灵感创意](#灵感创意)
+- [网站测速工具](#网站测速工具)
+- [Web开发社区](#Web开发社区)
+  - [国内](#国内)
+  - [国外](#国外)
+- [Web开发新闻聚合](#Web开发新闻聚合)
+- [博客](#博客)
+- [工具](#工具)
+- [Javascript书籍](#Javascript书籍)
+- [Git书籍](#Git书籍)
+- [参考文献](#参考文献)
+
 
 ### JavaScript库
 - [jQuery](http://jquery.com/) : 快速，小巧，功能丰富的JavaScript库。
@@ -45,7 +72,7 @@
 - [npm](https://www.npmjs.com/) : NPM（node package manager），通常称为node包管理器。顾名思义，它的主要功能就是管理node包，包括：安装、卸载、更新、查看、搜索、发布等。
 - [Bower](http://bower.io/) : Bower是一个客户端技术的软件包管理器，它可用于搜索、安装和卸载如JavaScript、HTML、CSS之类的网络资源。
 
-### 编程语言 / 开发平台
+### 编程语言/开发平台
 - [PHP](http://php.net/) : PHP（外文名 : PHP Hypertext Preprocessor，中文名：“超文本预处理器”）是一种通用开源脚本语言。语法吸收了C语言、Java和Perl的特点，利于学习，使用广泛，主要适用于Web开发领域。
 - [NodeJS](https://nodejs.org/en/) : Node.js 是一个基于 Chrome V8 引擎的 JavaScript 运行环境。Node.js 使用了一个事件驱动、非阻塞式 I/O 的模型,使其轻量又高效。
 - [Javascript](https://en.wikipedia.org/wiki/JavaScript) : JavaScript一种直译式脚本语言，是一种动态类型、弱类型、基于原型的语言，内置支持类型。它的解释器被称为JavaScript引擎，为浏览器的一部分，广泛用于客户端的脚本语言。
@@ -66,12 +93,12 @@
 - [Redis](http://redis.io/) : Redis是一个开源的使用ANSI C语言编写、支持网络、可基于内存亦可持久化的日志型、Key-Value数据库，并提供多种语言的API。
 - [PostgreSQL](http://www.postgresql.org/) : ostgreSQL支持大部分 SQL标准并且提供了许多其他现代特性：复杂查询、外键、触发器、视图、事务完整性、MVCC。
 
-### CSS 预处理器
+### CSS预处理器
 - [Sass](http://sass-lang.com/) :  Sass是一种CSS的开发工具，提供了许多便利的写法，大大节省了设计者的时间，使得CSS的开发，变得简单和可维护。
 - [Less](http://lesscss.org/) : Lesscss是一种动态样式语言,属于CSS预处理语言的一种,它使用类似CSS的语法,为CSS的赋予了动态语言的特性,如变量、继承、运算、函数等,更方便CSS的编写和维护。
 - [Stylus](http://stylus-lang.com/) : Stylus 是一个CSS的预处理框架，2010年产生，来自Node.js社区，主要用来给Node项目进行CSS预处理支持，所以Stylus 是一种新型语言，可以创建健壮的、动态的、富有表现力的CSS。
 
-### 文本编辑器 / 代码编辑器
+### 文本编辑器/代码编辑器
 - [Atom](https://atom.io/) : Atom更为先进的文本代码编辑器 - 由 Github 打造的下一代编程开发利器在代码编辑器、文本编辑器领域,有着不少的「神器」级的产品。
 - [Sublime Text](http://www.sublimetext.com/) : Sublime Text 是一个代码编辑器（Sublime Text 2和3是收费软件，但可以无限期试用），也是HTML和散文先进的文本编辑器。
 - [Notepad++](https://notepad-plus-plus.org/) : Notepad++是 Windows操作系统下的一套文本编辑器(软件版权许可证: GPL)，有完整的中文化接口及支持多国语言编写的功能。
@@ -83,7 +110,7 @@
 - [Brackets](http://brackets.io/) : Brackets 是一个免费、开源且跨平台的 HTML/CSS/JavaScript 前端 WEB 集成开发环境 (IDE工具)。
 - [Emacs](https://www.gnu.org/software/emacs/) : 著名的集成开发环境和文本编辑器。*Emacs*被公认为是最受专业程序员喜爱的代码编辑器之一。
 
-### Markdown 编辑器
+### Markdown编辑器
 - [MWeb](http://zh.mweb.im/) : 专业的 Markdown 写作、记笔记、静态博客生成软件（付费）。
 - [Markeditor](http://markeditor.com/app/markeditor) : MarkEditor 是最新的一款 Markdown 编辑器，除了基本功能外，还包含了诸如表格编辑、图表、高亮、公式等等丰富的功能（付费）。
 - [StackEdit](https://stackedit.io/) : 一个开放源码免费使用的 MarkDown 编辑器, 基于 PageDown,使用了 Stack Overflow 和其他 Stack Exchange 网站的 MarkDown 库。
@@ -97,7 +124,7 @@
 - [IconFinder](https://www.iconfinder.com/) : Iconfinder提供美丽的图标,服务数以百万计的设计师,开发商和其他有创意的专业人员。
 - [Fontello](http://fontello.com/) : 一个目测有200+个图标（数量还在增加）的 Web-font 图标市场，对于广大设计师、前端开发者来说是很棒的资源。
 
-### Git 代理 / 服务
+### Git 代理/服务
 - [SourceTree](https://www.sourcetreeapp.com/) : SourceTree 是 Windows 和Mac OS X 下免费的 Git 和 Hg 客户端。支持创建、克隆、提交、push、pull 和合并等操作。
 - [GitKraken](http://www.gitkraken.com/) (Beta) : 一款自由、直观、快捷、美观的跨平台Git客户端。
 - [Tower 2](https://www.git-tower.com/) : 一款美丽，高效，强大的Git管理，让Git版本控制变得容易。
@@ -117,7 +144,7 @@
 - [Diffchecker](https://www.diffchecker.com/) : Diffchecker 是一款非常好用的在线文本对比工具,能够高亮显示有差异的行和字符。Diffchecker提供了文件上传对比功能,还可以选择对比的存储时间。
 - [Beyond Compare](http://www.scootersoftware.com/) : Beyond Compare是一套由Scooter Software推出的软件，主要用途是对比两个文件夹或者文件，并将差异以颜色标示。
 
-### 代码共享 / 代码测试
+### 代码共享/代码测试
 - [JS Bin](http://jsbin.com/) : JS Bin能够让你编辑和测试JavaScript和HTML代码。你还可以将编辑后的代码保存到本地,或将URL地址发给其他人,让其协助调试代码。
 - [JSfiddle](https://jsfiddle.net/) : jsFiddle是一个在线的shell编辑器,通过流行的JS框架创建自定义的环境,以简化JS代码。可以用于测试示例代码。
 - [codeshare](https://codeshare.io/) : 与其他开发者实时共享代码。
@@ -177,7 +204,7 @@
 - [RegExr: Learn, Build, & Test RegEx](http://regexr.com/) : 正则表达式测试工具。
 - [Regexper](https://regexper.com/) : 正则表达式可视化工具。
 
-###Javascript书籍 
+### Javascript书籍 
 - [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/)
 - [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/)
 - [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
@@ -185,8 +212,5 @@
 ### Git书籍
 - [Pro Git（中文版）](http://git.oschina.net/progit/)
 
-
-
-## 参考文献
-
+### 参考文献
 [100+ 超全的 web 开发工具和资源整理 - 掘金](http://gold.xitu.io/entry/57cf641a816dfa00541feaed)
