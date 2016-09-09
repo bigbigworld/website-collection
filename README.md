@@ -4,7 +4,7 @@
 
 ### 目录
 - [JavaScript库](#javascript库)
-- [前端框架](#前端框架)
+- [CSS框架](#css框架)
 - [Web应用框架](#web应用框架)
 - [任务批处理工具/包管理器](#任务批处理工具包管理器)
 - [编程语言/开发平台](#编程语言开发平台)
@@ -35,14 +35,13 @@
 - [jQuery](http://jquery.com/) : 快速，小巧，功能丰富的JavaScript库。
 - [BackBoneJS](http://backbonejs.org/) : 为复杂Javascript应用程序提供模型(models)、集合(collections)、视图(views)的结构。
 - [D3.js](http://d3js.org/) : D3是基于数据的文档操作javascript库,D3能够把数据和HTML、SVG、CSS结合起来,创造出可交互的数据图表。
-- [React](https://facebook.github.io/react/) : Facebook的Javascript库为构建用户界面而开发。
 - [jQuery UI](http://jqueryui.com/) : jQuery UI 是以 jQuery 为基础的开源 JavaScript 网页用户界面代码库。包含底层用户交互、动画、特效和可更换主题的可视控件。
 - [jQuery Mobile](http://jquerymobile.com/) : 基于HTML5用于创建移动 web 应用程序的框架。
 - [Underscore.js](http://underscorejs.org/) : JavaScript实用库,提供了类似Prototype.js的一些功能,但是没有继承任何JavaScript内置对象。
 - [Moment.js](http://momentjs.com/) : 一个 JavaScript 日期处理类库，用于解析、检验、操作、以及显示日期。
 - [Lodash](https://lodash.com/) : 一个 JavaScript 实用工具库,提供一致性,模块化,性能和配件等功能。
 
-### 前端框架
+### CSS框架
 - [Bootstrap](http://getbootstrap.com/) : Bootstrap 是基于 HTML、CSS、JAVASCRIPT 的,它简洁灵活,使得 Web 开发更加快捷。
 - [Foundation](http://foundation.zurb.com/) : 迄今为止最好的响应式前端框架，更快、更轻、更多功能、更灵活、更强大！
 - [Semantic UI](http://semantic-ui.com/) : *Semantic* *UI* 是一款语义化设计的前端开源框架,其功能强大,使用简单,为设计师和开发师提供可复用的完美设计方案。
